@@ -1,10 +1,5 @@
 # describable-universe-framework
 A computational and information-theoretic framework modeling the emergence of stable, redundant macrostructure in describable universes.
-Perfect. Let’s do this properly — clean, serious, publish-ready.
-You can copy-paste this directly into your `README.md`.
-
----
-
 # Describable Universe Framework (v2.4)
 
 **Author:** Jesse James Leighty
